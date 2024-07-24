@@ -1,0 +1,16 @@
+body {
+  background-image: url(fc8379ea2d2a462b842f384079d7d1e9.jpg);
+}
+img[src="pngwing.com (1).png"] {
+  float: left;
+  width: 840px;
+  height: 850px;
+  margin-top: auto;
+}
+.text {
+  background-image: url(giphy.webp);
+  width: 400px;
+  height: 300px;
+  margin-left: auto;
+  margin-right: auto;
+}
